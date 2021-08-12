@@ -14,6 +14,7 @@
 
 ## Objetivo
 <p>Descrever o algoritmo dos seguintes exercícios:
+  
 1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
 
 2. Faça um sistema que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
